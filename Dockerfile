@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-# ----⚠️ Its Not an offical image ⚠️----
+# ----⚠️ Unoffical ⚠️----
 
 ARG DUCKDB_VERSION=latest
 
